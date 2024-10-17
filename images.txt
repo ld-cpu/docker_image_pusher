@@ -1,1 +1,1 @@
-php:8-apache
+Zabbix server 7.2 (tags: alpine-trunk, ubuntu-trunk, ol-trunk)
